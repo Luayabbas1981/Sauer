@@ -131,4 +131,5 @@ body {
     font-family: 'Dancing Script', cursive;
     font-weight: bold;
     font-size: 35px;
+      user-select :none;
   }
