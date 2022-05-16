@@ -4,6 +4,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    user-select: none;
+    
   }
   .frame {
     position: relative;
@@ -131,5 +133,5 @@ body {
     font-family: 'Dancing Script', cursive;
     font-weight: bold;
     font-size: 35px;
-      user-select :none;
+   user-select: none;
   }
