@@ -14,6 +14,11 @@ body {
     background-color: #bebebe;
     box-shadow: 10px 10px 10px #d7d7d7;
     border-radius: 20px 20px 20px 80px;
+  } 
+  @media (max-width:500px){
+    .frame{
+      scale: .8;
+    }
   }
 
   .head {
